@@ -5,8 +5,10 @@
 * Funded by: TUBITAK
 * Number: 116F197
 * Budget: 359.810 Turkish liras
- 
+
 ### Project Description
+
+<img align="left" src="mgzno-proje.png">
 
 Wide-bandgap (WBG) semiconductors is seen as an essential future technology by the U.S. Department of Energy (DOE), introduced as the main technology in recovering 90% of the energy losses, and accepted as a fundamental technology in the future in communication and lighting, particularly in Light Emitting Diodes (LEDs) and LASERs.
 
