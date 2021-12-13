@@ -31,7 +31,7 @@ This project proposal will begin with ZnO, MgZnO and n-type doped MgZnO growths 
 * Ece KUTLU-NARİN (Ankara Yildirim Beyazit Univ.)
 * Polat NARİN (Gazi Univ.)
 
-##### Other Colleagues, Students and Collaborations
+#### Other Colleagues, Students and Collaborations
 * Prof. Dr. Mehmet KASAP (Gazi Univ.)
 * Prof. Dr. Ekmel OZBAY (Bilkent Univ.)
 * Assoc. Prof. Dr. Beyza SARIKAVAK-LISESIVDIN (Gazi Univ.)
