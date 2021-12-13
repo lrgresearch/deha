@@ -1,4 +1,4 @@
-##  Project DEHA: Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD
+## DEHA- Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD
 
 ### Project Information
 * Date: Feb 2017 - Feb 2020
